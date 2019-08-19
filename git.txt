@@ -5,3 +5,4 @@ create a new file inside repository.
 commit to a new file.
 add missing things 
 practice makes man's perfect.
+Branching
