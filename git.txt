@@ -1,0 +1,5 @@
+The main terms we have to know in git is 
+Repository (repo).It is nothing but a project.
+Create a new repositry.
+create a new file inside repository.
+commit to a new file.
