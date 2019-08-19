@@ -6,3 +6,4 @@ commit to a new file.
 add missing things 
 practice makes man's perfect.
 Branching
+Branching is most imp in git
